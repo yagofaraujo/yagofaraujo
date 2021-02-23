@@ -1,4 +1,3 @@
-```markdown
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 # Yago Ferreira
@@ -15,5 +14,3 @@ Sou um Desenvolvedor Delphi :computer:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-ferreira-araujo/)](https://www.linkedin.com/in/yago-ferreira-araujo/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:yagofdearaujo@gmail.com)
-
-```
