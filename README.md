@@ -4,7 +4,6 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Desenvolvedor Delphi :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Fortes Tecnologia**
  :computer: No momento, atuo como desenvolvedor Delphi. Minha tarefa é dar manutenção em um sistema de departamento pessoal, corrigindo bugs e adequando-o às legislações estaduais e federais. Utilizamos as seguintes ferramentas: Delphi 7, Delphi XE6, FireBird 2.5 e SQL Server. Também utilizamos KanBan e SCRUM para darmos agilidade aos nossos projetos.
