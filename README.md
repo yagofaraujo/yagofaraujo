@@ -1,5 +1,3 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 # Yago Ferreira
 
 ## Olá pessoal 👋
