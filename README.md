@@ -1,6 +1,6 @@
 # Yago Ferreira
 
-## Olá pessoal 👋
+## Olá, pessoal! 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 
  :rocket:  &nbsp; Estou trabalhando na **Fortes Tecnologia**.
