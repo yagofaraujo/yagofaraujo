@@ -9,7 +9,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
  <br/> :purple_heart: &nbsp; Busco colaborar com projetos em Front-end usando React e React Native.
  <br/> :blush: &nbsp; Posso te ajudar com Delphi 7, Delphi XE6, Firebird, Programação Orientada à Objetos, JavaScript e Lógica de Programação.
  <br/> :computer: &nbsp; Minha stack: hoje trabalho com Delphi (é o que mais me sinto confortável, no momento). Mas estou totalmente focado em partir para o próximo nível, estudando ReactJS, Node.js, React Native & Typescript.
- <br/> 💬  &nbsp; Sobre mim: curto tecnologia, futebol, CS:GO, LoL, FIFA, filmes e seriados no netflix.
+ <br/> 💬  &nbsp; Sobre mim: curto tecnologia, futebol, CS:GO, FIFA, filmes e seriados.
  <br/>
  <br/>
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-YagoFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-ferreira-araujo/)](https://www.linkedin.com/in/yago-ferreira-araujo/) 
