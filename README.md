@@ -6,8 +6,8 @@ Sou apaixonado por resolver problemas utilizando a programação.
  :rocket:  &nbsp; Estou trabalhando no **Pravaler**.
  <br/> :computer:  &nbsp; No momento, atuo como engenheiro de software. Minha tarefa é utilizar a tecnologia para que possamos impactar a vida de 1 milhão de pessoas através da educação.
  <br/> :wrench:  &nbsp; Trabalho com as seguintes ferramentas: ReactJS, NodeJS e um pouco de PHP. Também utilizamos Kanban e Scrum para darmos agilidade aos nossos projetos.
- <br/> :purple_heart: &nbsp; Busco colaborar com projetos em Front-end, usando React e React Native, e em projetos Back-end usando Node.
- <br/> :blush: &nbsp; Posso te ajudar com NodeJS, ReactJS, Delphi 7, Delphi XE6, SQL (banco de dados), Programação Orientada à Objetos, JavaScript e Lógica de Programação.
+ <br/> :purple_heart: &nbsp; Busco colaborar com projetos em Front-end, usando React e React Native, e em projetos Back-end, utilizando Node.
+ <br/> :blush: &nbsp; Posso te ajudar com NodeJS, ReactJS, Delphi 7, Delphi XE6, SQL (banco de dados), Programação Orientada à Objetos, JavaScript, TypeScript e Lógica de Programação.
  <br/> :computer: &nbsp; Minha stack: hoje tenho uma pequena experiência com React, Node e TypeScript. Estou totalmente focado em partir para o próximo nível, me aprofundando nessas tecnologias e aprendendo cada vez mais sobre desenvolvimento web.
  <br/> 💬  &nbsp; Sobre mim: curto tecnologia, futebol, CS:GO, FIFA, filmes e seriados.
  <br/>
