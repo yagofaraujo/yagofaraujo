@@ -3,7 +3,7 @@
 ## Olá, pessoal! 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 
- :rocket:  &nbsp; Estou trabalhando no **Pravaler**.
+ :rocket:  &nbsp; Estou trabalhando no **Nubank**.
  <br/> :computer:  &nbsp; No momento, atuo como engenheiro de software. Minha tarefa é utilizar a tecnologia para que possamos impactar a vida de 1 milhão de pessoas através da educação.
  <br/> :wrench:  &nbsp; Trabalho com as seguintes ferramentas: ReactJS e NodeJS. Também utilizamos Kanban e Scrum para darmos agilidade aos nossos projetos.
  <br/> :purple_heart: &nbsp; Busco colaborar com projetos em projetos Back-end, utilizando NodeJS.
